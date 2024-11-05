@@ -1,4 +1,5 @@
 CDS540 Assignment 1 - Online PK automation script for Xiaoyuan oral calculation based on OpenCV text detection
+
 1.Project Background
     The background of this project comes from the online mental calculation PK of the popular Little Ape mental calculation app. This feature was originally intended for elementary school students, but after being recently conquered by college students, online mental calculation PK has become algorithm PK. Everyone uses different algorithms to write scripts, making the speed of mental calculation PK faster and faster. After learning about this project, I found that computer vision technology can be used to write scripts, and it involves dynamic text recognition technology, which is full of innovation. Therefore, I temporarily changed the ordinary text recognition project I had written before to the Little Ape mental calculation script project as this assignment.
 2.Project Description
